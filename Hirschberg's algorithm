@@ -1,0 +1,4 @@
+compute an optimal alignment (but not just its score!) of two strings of length n and m 
+in quadratic time O(nm) and a linear space O(m+n) only.
+
+http://jeffe.cs.illinois.edu/teaching/algorithms/notes/06-sparsedynprog.pdf

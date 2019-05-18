@@ -1,0 +1,1 @@
+ - [Game theory](https://www.economist.com/blogs/gametheory) - The politics, economics, science and statistical analysis of the games we play and watch
